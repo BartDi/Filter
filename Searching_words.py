@@ -1,3 +1,7 @@
+"""
+PL wyszukiwanie słów i zmiana na wielkie litery
+ENG looking for words and changing them to bigger ones
+"""
 def search_words(text, words):
     list_words=words.split()
     list_text=text.split()
